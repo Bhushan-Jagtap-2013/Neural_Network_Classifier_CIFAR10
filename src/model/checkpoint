@@ -1,0 +1,2 @@
+model_checkpoint_path: "cfar10"
+all_model_checkpoint_paths: "cfar10"
